@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Ruby 的橘猫起始页魔改",
+  "name": "Ruby 的起始页魔改",
   "version": "1.2.7",
   "description": "这是一个 Ruby 魔改的起始页",
   "homepage_url": "https://www.jvmao.net",
@@ -37,8 +37,8 @@
       "resources": [
         "src/content/index.js",
         "static/js/FavIconIcon-6844105d.js",
-        "static/js/SearchIcon-1fd420e7.js",
-        "static/js/content-1ab5d276.js",
+        "static/js/SearchIcon-1757d27a.js",
+        "static/js/content-c7978f76.js",
         "static/js/styled-components.browser.esm-1bf82734.js"
       ],
       "matches": [

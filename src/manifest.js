@@ -1,6 +1,6 @@
 const manifest = {
   manifest_version: 3,
-  name: "Ruby 的橘猫起始页魔改",
+  name: "Ruby 的起始页魔改",
   version: "1.2.7",
   description: "这是一个 Ruby 魔改的起始页",
   homepage_url: "https://www.jvmao.net",

@@ -1,1 +1,1 @@
-(async()=>{await import(chrome.runtime.getURL("static/js/content-1ab5d276.js"))})();
+(async()=>{await import(chrome.runtime.getURL("static/js/content-c7978f76.js"))})();
